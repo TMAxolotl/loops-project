@@ -3,7 +3,7 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "Loops project": "github:aadithk-pixel/loops-project#ca4660cf7da64bec21cff63e59e1cebc234e00d3"
+        "Loops project": "github:aadithk-pixel/loops-project#77fcb324089f758a55a2a06e4d3241bfb48f7bcd"
     },
     "files": [
         "main.blocks",
